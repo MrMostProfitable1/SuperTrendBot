@@ -10,8 +10,8 @@ CONFIG = {
     # ── BYBIT API ─────────────────────────────────────────
     # Railway pe Environment Variables mein set karo (neeche tutorial mein)
     # Local test ke liye yahan seedha likh sakte ho
-    "API_KEY":    os.environ.get("BYBIT_API_KEY",    "YOUR_API_KEY_HERE"),
-    "API_SECRET": os.environ.get("BYBIT_API_SECRET", "YOUR_API_SECRET_HERE"),
+    "API_KEY":    os.environ.get("hEsic2EIJm3fieCuzY",    "YOUR_API_KEY_HERE"),
+    "API_SECRET": os.environ.get("NOGtsTzZXIBOXaz23f4dqSbrKoy216WpeExX", "YOUR_API_SECRET_HERE"),
     "TESTNET":    os.environ.get("TESTNET", "true").lower() == "true",
 
     # ── SYMBOLS ───────────────────────────────────────────
